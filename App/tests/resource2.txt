@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="gui/">
+    <file>gui/heater.png</file>
+  </qresource>
+</RCC>
